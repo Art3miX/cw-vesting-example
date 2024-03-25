@@ -1,0 +1,13 @@
+{
+  "create_vesting": {
+    "receiver": {
+      "ibc": {
+        "address": "cosmos1234",
+        "channel_id": "channel-1",
+        "claimer": "neutron1234"
+        }
+      },
+    "vesting_strategy": "hour",
+    "label": "yan-ibc-vesting"
+  }
+}
